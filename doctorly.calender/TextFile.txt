@@ -1,0 +1,7 @@
+﻿Models
+
+
+3rd Party tools used
+Dapper - Light ORM to query the database
+Sendgrid - To send emails
+Swashbuckle - to auto-generated documentation
